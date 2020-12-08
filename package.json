@@ -1,7 +1,7 @@
 {
   "name": "software-testing-assignment",
   "version": "1.0.0",
-  "description": "",
+  "description": "## Purpose of this repository",
   "main": "index.js",
   "type": "module",
   "scripts": {
@@ -9,6 +9,16 @@
   },
   "author": "",
   "license": "MIT",
-  "dependencies": {},
-  "devDependencies": {}
+  "dependencies": {
+    "coveralls": "^3.1.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ile6695/COMP.SE.200-2020-assignment.git"
+  },
+  "bugs": {
+    "url": "https://github.com/ile6695/COMP.SE.200-2020-assignment/issues"
+  },
+  "homepage": "https://github.com/ile6695/COMP.SE.200-2020-assignment#readme"
 }
